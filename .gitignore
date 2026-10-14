@@ -1,0 +1,19 @@
+# Personal runtime data and credentials
+data.json
+*.enc
+audio-cache/
+active-reading.txt
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local development and operating-system files
+node_modules/
+.DS_Store
+.swiftpm/
+.build/
+
+# Generated release archives
+dist/

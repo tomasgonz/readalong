@@ -1,0 +1,13 @@
+{
+  "name": "readalong",
+  "version": "1.7.0",
+  "private": true,
+  "description": "Listen to notes, sections or selections with ElevenLabs, or local Siri and system voices on macOS.",
+  "author": "Tomas Gonzalez",
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "test": "node scripts/test.cjs",
+    "test:native": "node tests/native.cjs"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "readalong",
+  "name": "Readalong",
+  "version": "1.7.0",
+  "minAppVersion": "1.14.4",
+  "description": "Listen to notes, sections or selections with ElevenLabs, or local Siri and system voices on macOS.",
+  "author": "Tomas Gonzalez",
+  "isDesktopOnly": true,
+  "authorUrl": "https://github.com/tomasgonz"
+}
